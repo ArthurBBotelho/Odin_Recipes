@@ -1,2 +1,2 @@
-# Odin_Recipes
+# odin-recipes
 First website for recipes
