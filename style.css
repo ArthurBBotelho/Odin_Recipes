@@ -1,0 +1,87 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(5, 25, 43);
+    background-color: rgb(221, 206, 188);
+    
+}
+
+.title {
+    font-size: 72px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(151, 63, 63);
+    margin: 50px;
+    border: 2px solid rgb(5, 25, 43);
+    padding: 10px;
+    border-radius: 60px;
+    box-shadow: 10px gray;
+}
+
+.sub-title {
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+}
+
+.list-recipe {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 400px;
+    display: flex;
+    margin: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+
+div {
+    font-size: 28px;
+    color: rgb(197, 176, 152);
+    background-color: rgb(5, 25, 43);
+    width: fit-content;
+    margin: 5px;
+    border: 10px;
+    padding: 12px;
+    border-radius: 20px;
+    position: relative;
+    left: 160px;
+    top: 100px;
+}
+
+.lasagna {
+    margin: 20px;
+    
+}
+
+.chicken {
+    margin: 20px;
+    
+}
+
+.salad {
+    margin: 20px;
+    
+}
+
+footer {
+    font-size: 24px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.here {
+    font-size: 30px;
+    background-color: rgb(5, 25, 43);
+    color: rgb(197, 176, 152);
+    border-radius: 20px;
+}
